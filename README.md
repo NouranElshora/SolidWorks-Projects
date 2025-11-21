@@ -18,5 +18,4 @@ A guidance robot designed and modeled in SolidWorks, which was **produced in rea
 ![Guidance Robot Real](Robot/Guidance%20Robot%20after%20production.png)
 
 **Drawings:**  
-Technical drawing sheets are included in the `Drawings` folder inside `Robot`.
-
+Technical drawing sheets are included in the [Drawings folder](Robot/Guidance%20Robot%20Drawing%20Sheets).
