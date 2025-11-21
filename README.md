@@ -37,7 +37,7 @@ A prototype parking robot fully designed in SolidWorks. Demonstrates mechanical 
 **SolidWorks Models:**  
 ![Parking Robot CAD 1](Parking%20Robot/Parking%20Robot.png)  
 
-**Produced / Additional Views:**  
+**Additional Views:**  
 ![Parking Robot CAD 2](Parking%20Robot/Parking%20Robot%20II.jpeg) 
 ![Parking Robot III](Parking%20Robot/Parking%20Robot%20III.jpeg)
 
